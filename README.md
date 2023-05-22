@@ -18,8 +18,7 @@ enter the name of each player. (Also prompt the user to set the timer).<br>
 ii. The score of the game are retrieved at the end.<br>
 
 ## The Board
-
-<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team_four/assets/111397736/a098eae3-5f6d-4368-8b98-e584588afe87">
+<img src="https://github.com/sbme-tutorials/finalproject_chessgame-team_four/assets/111397736/7ed8c86f-423b-4d29-a751-0ea4f54dc7d0">
 
 ## Contributors
 - [Hassnaa Hossam](https://github.com/hassnaa11)
