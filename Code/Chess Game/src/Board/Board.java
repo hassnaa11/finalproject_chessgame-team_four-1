@@ -225,7 +225,7 @@ public class Board extends JPanel {
                             wKilled_lapel.add(wknight_label);
                             Frame.frame.setVisible(true);
                         }
-                        case "Rock" -> {
+                        case "Rook" -> {
                             Image temp_img = Board.imgs[4].getScaledInstance(60, 60, Image.SCALE_SMOOTH);
                             JLabel wrook_label = new JLabel(new ImageIcon(temp_img));
                             wKilled_lapel.add(wrook_label);
@@ -265,7 +265,7 @@ public class Board extends JPanel {
                             bKilled_lapel.add(bknight_label);
                             Frame.frame.setVisible(true);
                         }
-                        case "Rock" -> {
+                        case "Rook" -> {
                             Image temp_img = Board.imgs[10].getScaledInstance(60, 60, Image.SCALE_SMOOTH);
                             JLabel brook_label = new JLabel(new ImageIcon(temp_img));
                             bKilled_lapel.add(brook_label);
