@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/s-rx3t9_)
 # **Chess Game**
 This is a multiplayer chess game. First you enter your username and password and if you don’t have a one you can create a new account then you enter the players’ name and the time of the game you want. So our chess game has the same rules as the regular chess game but with some differences in the moves of some pieces.The eaten pieces of each player displayed on the sidebar. The valid moves are highlighted green and the illegal moves highlighted red. The game end when one of the players is checked or when the time of one of the players ended.
 
